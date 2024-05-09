@@ -56,13 +56,13 @@
       </a>
       <span>Flask</span>
     </td>
-   <tr/>
-    <tr>
     <td align="center" width="96">
       <a target="_blank" href="https://www.docker.com/">
         <img src=".github/images/docker (1).svg" width="48" height="48" alt="Docker" />
       </a>
       <span>Docker</span>
+     <tr/>
+     <tr>
     </td>
       <td align="center" width="96">
       <a href="https://isocpp.org/">
