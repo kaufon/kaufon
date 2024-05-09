@@ -6,7 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaufon&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-
+<br>
 
 
 ## <img src=".github/images/spouting-whale-joypixels.gif" width="30px" height="30px"> Technologies that i'm familiar with:
@@ -101,6 +101,9 @@
   </tr>
 </table>
 
+<br>
+
 ## ☎️ Contact Me:
  <a href="https://www.linkedin.com/in/kauan-fonseca-b62188300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+<br>
