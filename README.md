@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'm Kauan Fonseca! <img src=".github/images/long-livethe-blob-sunglasses.gif" width="30px" height="30px"></h1>
+<h1 align="center"><img src=".github/images/the-blobs-live-on-waving.gif" width="30px" height="30px"> Hello, i'm Kauan Fonseca! <img src=".github/images/long-livethe-blob-sunglasses.gif" width="30px" height="30px"></h1>
 
 
 
