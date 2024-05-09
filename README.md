@@ -98,6 +98,12 @@
       </a>
       <span>AWS</span>
     </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com/organizations/">
+        <img src=".github/images/git.svg" width="48" height="48" alt="git" />
+      </a>
+      <span>Git</span>
+    </td>
   </tr>
 </table>
 
