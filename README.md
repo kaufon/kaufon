@@ -1,4 +1,5 @@
-## Hello, i`m Kauan Fonseca! 🖐️
+<h1 align="center">Hello, i'm Kauan Fonseca! <img src=".github/images/long-livethe-blob-sunglasses.gif" width="30px" height="30px"></h1>
+
 
 
  <div align="center">
