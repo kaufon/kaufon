@@ -28,7 +28,7 @@
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src=".github/images/javascript (1).svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <span>JavaScript 🤓</span>
+      <span>JavaScript</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://tailwindcss.com/">
@@ -42,8 +42,6 @@
         <img src=".github/images/mysql (1).png" width="48" height="48" alt="MySQL" />
       </a>
       <span>MySQL</span>
-    <tr/>
-    <tr>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://www.python.org/">
@@ -57,6 +55,8 @@
       </a>
       <span>Flask</span>
     </td>
+   <tr/>
+    <tr>
     <td align="center" width="96">
       <a target="_blank" href="https://www.docker.com/">
         <img src=".github/images/docker (1).svg" width="48" height="48" alt="Docker" />
@@ -76,8 +76,6 @@
       </a>
       <span>Ruby</span>
     </td>
-  <tr/>
-  <tr> 
   </td>
       <td align="center" width="96">
       <a href="https://rubyonrails.org/">
@@ -101,4 +99,7 @@
     </td>
   </tr>
 </table>
+
+## Contact Me:
+ <a href="https://www.linkedin.com/in/kauan-fonseca-b62188300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
