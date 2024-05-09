@@ -14,32 +14,32 @@
   <tr>
     <td align="center" width="96">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src=".github/images/html5(1).svg" width="48" height="48" alt="HTML" />
+        <img src=".github/images/html5 (1).svg" width="48" height="48" alt="HTML" />
       </a>
       <span>HTML</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="documentation/images/css3.svg" width="48" height="48" alt="CSS" />
+        <img src=".github/images/css3 (1).svg" width="48" height="48" alt="CSS" />
       </a>
       <span>CSS</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="/images/javascript.svg" width="48" height="48" alt="JavaScript" />
+        <img src=".github/images/javascript (1).svg" width="48" height="48" alt="JavaScript" />
       </a>
       <span>JavaScript 🤓</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://tailwindcss.com/">
-        <img src="/images/tailwindcss.jpg" width="48" height="48" alt="JavaScript" />
+        <img src=".github/images/tailwindcss (1).jpg" width="48" height="48" alt="JavaScript" />
       </a>
       <span>TailwindCSS</span>
     </td>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://www.mysql.com/">
-        <img src="/images/mysql.png" width="48" height="48" alt="MySQL" />
+        <img src=".github/images/mysql (1).png" width="48" height="48" alt="MySQL" />
       </a>
       <span>MySQL</span>
     <tr/>
@@ -47,32 +47,32 @@
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://www.python.org/">
-        <img src="/images/python.svg" width="48" height="48" alt="Python" />
+        <img src=".github/images/python (1).svg" width="48" height="48" alt="Python" />
       </a>
       <span>Python</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://flask.palletsprojects.com/en/3.0.x/">
-        <img src="/images/flask.svg" width="48" height="48" alt="Flask"/>
+        <img src=".github/images/flask.svg" width="48" height="48" alt="Flask"/>
       </a>
       <span>Flask</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://www.docker.com/">
-        <img src="documentation/images/docker.svg" width="48" height="48" alt="Docker" />
+        <img src=".github/images/docker (1).svg" width="48" height="48" alt="Docker" />
       </a>
       <span>Docker</span>
     </td>
       <td align="center" width="96">
       <a href="https://isocpp.org/">
-        <img src="documentation/images/figma.svg" width="48" height="48" alt="C++" />
+        <img src=".github/images/C++.png" width="48" height="48" alt="C++" />
       </a>
       <span>C++</span>
     </td>
    </td>
       <td align="center" width="96">
-      <a href="https://isocpp.org/">
-        <img src="documentation/images/figma.svg" width="48" height="48" alt="Ruby" />
+      <a href="https://www.ruby-lang.org/">
+        <img src=".github/images/ruby.png" width="48" height="48" alt="Ruby" />
       </a>
       <span>Ruby</span>
     </td>
@@ -80,22 +80,22 @@
   <tr> 
   </td>
       <td align="center" width="96">
-      <a href="https://isocpp.org/">
-        <img src="documentation/images/figma.svg" width="48" height="48" alt="Rails" />
+      <a href="https://rubyonrails.org/">
+        <img src=".github/images/rails.png" width="48" height="48" alt="Rails" />
       </a>
       <span>Ruby on Rails 😎</span>
     </td>
    </td>
       <td align="center" width="96">
-      <a href="https://isocpp.org/">
-        <img src="documentation/images/figma.svg" width="48" height="48" alt="Boostrap" />
+      <a href="https://getbootstrap.com/">
+        <img src=".github/images/bootstrap.svg" width="48" height="48" alt="Boostrap" />
       </a>
       <span>Bootstrap</span>
     </td>
    </td>
       <td align="center" width="96">
-      <a href="https://isocpp.org/">
-        <img src="documentation/images/figma.svg" width="48" height="48" alt="AWS" />
+      <a href="https://aws.amazon.com/organizations/">
+        <img src=".github/images/aws.jpg" width="48" height="48" alt="AWS" />
       </a>
       <span>AWS</span>
     </td>
