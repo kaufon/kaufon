@@ -1,4 +1,4 @@
-<h1 align="center"><img src=".github/images/the-blobs-live-on-waving.gif" width="30px" height="30px"> Hello, i'm Kauan Fonseca! <img src=".github/images/long-livethe-blob-sunglasses.gif" width="30px" height="30px"></h1>
+<h1 align="center"><img src=".github/images/the-blobs-live-on-waving.gif" width="30px" height="30px"> Hello! i'm Kauan Fonseca! <img src=".github/images/long-livethe-blob-sunglasses.gif" width="30px" height="30px"></h1>
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-## 🐋 Technologies that i'm familiar with:
+## <img src=".github/images/spouting-whale-joypixels.gif" width="30px" height="30px"> Technologies that i'm familiar with:
 
 <table>
   <tr>
@@ -101,6 +101,6 @@
   </tr>
 </table>
 
-## Contact Me:
+## ☎️ Contact Me:
  <a href="https://www.linkedin.com/in/kauan-fonseca-b62188300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
