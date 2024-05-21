@@ -66,21 +66,21 @@
     </td>
       <td align="center" width="96">
       <a href="https://isocpp.org/">
-        <img src=".github/images/C++.png" width="48" height="48" alt="C++" />
+        <img src=".github/images/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
       </a>
       <span>C++</span>
     </td>
    </td>
       <td align="center" width="96">
       <a href="https://www.ruby-lang.org/">
-        <img src=".github/images/ruby.png" width="48" height="48" alt="Ruby" />
+        <img src=".github/images/Ruby.svg" width="48" height="48" alt="Ruby" />
       </a>
       <span>Ruby</span>
     </td>
   </td>
       <td align="center" width="96">
       <a href="https://rubyonrails.org/">
-        <img src=".github/images/rails.png" width="48" height="48" alt="Rails" />
+        <img src=".github/images/Ruby on Rails.svg" width="48" height="48" alt="Rails" />
       </a>
       <span>Ruby on Rails 😎</span>
     </td>
