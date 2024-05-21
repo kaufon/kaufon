@@ -104,6 +104,12 @@
       </a>
       <span>Git</span>
     </td>
+    <td align="center" width="96">
+      <a href="https://www.learn-c.org/">
+        <img src=".github/images/OIP.jpeg" width="60" height="48" alt="git" />
+      </a>
+      <span>C</span>
+    </td>
   </tr>
 </table>
 
