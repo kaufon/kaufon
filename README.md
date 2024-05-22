@@ -104,9 +104,15 @@
       </a>
       <span>Git</span>
     </td>
+   <td align="center" width="96">
+      <a href="https://github.com/">
+        <img src=".github/images/GitHub.svg" width="60" height="48" alt="github" />
+      </a>
+      <span>Github</span>
+    </td>
     <td align="center" width="96">
       <a href="https://www.learn-c.org/">
-        <img src=".github/images/C.svg" width="60" height="48" alt="git" />
+        <img src=".github/images/C.svg" width="60" height="48" alt="C" />
       </a>
       <span>C</span>
     </td>
