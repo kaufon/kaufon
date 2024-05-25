@@ -106,7 +106,7 @@
     </td>
    <td align="center" width="96">
       <a href="https://github.com/">
-        <img src=".github/images/GitHub.svg" width="60" height="48" alt="github" />
+        <img src=".github/images/GitHub.svg" width="60" height="48" alt="Github" />
       </a>
       <span>Github</span>
     </td>
