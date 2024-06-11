@@ -117,6 +117,14 @@
       <span>C</span>
     </td>
   </tr>
+ <tr>
+  <td align="center" width="96">
+      <a href="https://soliditylang.org/">
+        <img src=".github/images/Solidity.svg" width="60" height="48" alt="solidity" />
+      </a>
+      <span>Solidity</span>
+    </td>
+ </tr>
 </table>
 
 <br>
