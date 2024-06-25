@@ -9,7 +9,7 @@
 <br>
 
 
-## <img src=".github/images/spouting-whale-joypixels.gif" width="30px" height="30px"> Technologies that i'm familiar with:
+## <img src=".github/images/raccoon-roll.gif" width="30px" height="30px"> Technologies that i'm familiar with:
 
 <table>
   <tr>
