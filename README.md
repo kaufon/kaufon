@@ -130,6 +130,12 @@
       </a>
       <span>Solidity</span>
     </td>
+    <td align="center" width="96">
+      <a href="https://neovim.io/">
+        <img src=".github/images/neovimio-icon.svg" width="60" height="48" alt="nvim" />
+      </a>
+      <span>NeoVim</span>
+    </td>
  </tr>
 </table>
 
