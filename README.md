@@ -71,18 +71,24 @@
       <span>C++</span>
     </td>
    </td>
-      <td align="center" width="96">
+  <td align="center" width="96">
+      <a href="https://react.dev/">
+        <img src=".github/images/React.svg" width="48" height="48" alt="ReactJS" />
+      </a>
+      <span>React</span>
+    </td>
+     <!-- <td align="center" width="96">
       <a href="https://www.ruby-lang.org/">
         <img src=".github/images/Ruby.svg" width="48" height="48" alt="Ruby" />
       </a>
       <span>Ruby</span>
-    </td>
+    </td> -->
   </td>
       <td align="center" width="96">
       <a href="https://rubyonrails.org/">
         <img src=".github/images/Ruby on Rails.svg" width="48" height="48" alt="Rails" />
       </a>
-      <span>Ruby on Rails 😎</span>
+      <span>Ruby on Rails </span>
     </td>
    </td>
       <td align="center" width="96">
