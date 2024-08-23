@@ -93,7 +93,7 @@
    </td>
       <td align="center" width="96">
       <a href="https://getbootstrap.com/">
-        <img src=".github/images/bootstrap.svg" width="48" height="48" alt="Boostrap" />
+        <img src=".github/images/Bootstrap (1).svg" width="48" height="48 alt="Boostrap" />
       </a>
       <span>Bootstrap</span>
     </td>
