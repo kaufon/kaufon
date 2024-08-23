@@ -136,6 +136,12 @@
       </a>
       <span>NeoVim</span>
     </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src=".github/images/TypeScript.svg" width="60" height="48" alt="TScript" />
+      </a>
+      <span>TypeScript</span>
+    </td>
  </tr>
 </table>
 
