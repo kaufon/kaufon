@@ -33,10 +33,9 @@
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://tailwindcss.com/">
-        <img src=".github/images/tailwindcss (1).jpg" width="48" height="48" alt="JavaScript" />
+        <img src=".github/images/tailwindcss (1).jpg" width="48" height="48" alt="TailwindCSS" />
       </a>
       <span>TailwindCSS</span>
-    </td>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://www.mysql.com/">
@@ -61,44 +60,35 @@
         <img src=".github/images/docker (1).svg" width="48" height="48" alt="Docker" />
       </a>
       <span>Docker</span>
-     <tr/>
-     <tr>
     </td>
-      <td align="center" width="96">
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
       <a href="https://isocpp.org/">
         <img src=".github/images/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
       </a>
       <span>C++</span>
     </td>
-   </td>
-  <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://react.dev/">
         <img src=".github/images/React.svg" width="48" height="48" alt="ReactJS" />
       </a>
       <span>React</span>
     </td>
-     <!-- <td align="center" width="96">
-      <a href="https://www.ruby-lang.org/">
-        <img src=".github/images/Ruby.svg" width="48" height="48" alt="Ruby" />
-      </a>
-      <span>Ruby</span>
-    </td> -->
-  </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://rubyonrails.org/">
         <img src=".github/images/Ruby on Rails.svg" width="48" height="48" alt="Rails" />
       </a>
-      <span>Ruby on Rails </span>
+      <span>Ruby on Rails</span>
     </td>
-   </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://getbootstrap.com/">
-        <img src=".github/images/Bootstrap (1).svg" width="48" height="48 alt="Boostrap" />
+        <img src=".github/images/Bootstrap (1).svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <span>Bootstrap</span>
     </td>
-   </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://aws.amazon.com/organizations/">
         <img src=".github/images/aws.jpg" width="48" height="48" alt="AWS" />
       </a>
@@ -106,11 +96,11 @@
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/">
-        <img src=".github/images/git.svg" width="48" height="48" alt="git" />
+        <img src=".github/images/git.svg" width="48" height="48" alt="Git" />
       </a>
       <span>Git</span>
     </td>
-   <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://github.com/">
         <img src=".github/images/GitHub.svg" width="60" height="48" alt="Github" />
       </a>
@@ -123,10 +113,10 @@
       <span>C</span>
     </td>
   </tr>
- <tr>
-  <td align="center" width="96">
+  <tr>
+    <td align="center" width="96">
       <a href="https://soliditylang.org/">
-        <img src=".github/images/Solidity.svg" width="60" height="48" alt="solidity" />
+        <img src=".github/images/Solidity.svg" width="60" height="48" alt="Solidity" />
       </a>
       <span>Solidity</span>
     </td>
@@ -142,9 +132,8 @@
       </a>
       <span>TypeScript</span>
     </td>
- </tr>
+  </tr>
 </table>
-
 <br>
 
 ## ☎️ Contact Me:
