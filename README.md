@@ -132,6 +132,12 @@
       </a>
       <span>TypeScript</span>
     </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src=".github/images/Figma (1).svg" width="60" height="48" alt="TScript" />
+      </a>
+      <span>Figma</span>
+    </td>
   </tr>
 </table>
 <br>
