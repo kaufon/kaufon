@@ -133,10 +133,16 @@
       <span>TypeScript</span>
     </td>
     <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src=".github/images/Figma (1).svg" width="60" height="48" alt="TScript" />
+      <a href="https://www.figma.com/">
+        <img src=".github/images/Figma (1).svg" width="60" height="48" alt="Figma" />
       </a>
       <span>Figma</span>
+    </td>
+<td align="center" width="96">
+      <a href="https://nextjs.org/">
+        <img src=".github/images/Next.js.svg" width="60" height="48" alt="NextJS" />
+      </a>
+      <span>NextJS</span>
     </td>
   </tr>
 </table>
