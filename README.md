@@ -122,7 +122,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://neovim.io/">
-        <img src=".github/images/neovimio-icon.svg" width="60" height="48" alt="nvim" />
+        <img src=".github/images/neovimio-icon.svg" width="48" height="48" alt="nvim" />
       </a>
       <span>NeoVim</span>
     </td>
@@ -140,7 +140,7 @@
     </td>
 <td align="center" width="96">
       <a href="https://nextjs.org/">
-        <img src=".github/images/Next.js.svg" width="60" height="48" alt="NextJS" />
+        <img src=".github/images/nextjs.png" width="48" height="48" alt="NextJS" />
       </a>
       <span>NextJS</span>
     </td>
