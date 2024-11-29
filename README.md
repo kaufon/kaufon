@@ -95,16 +95,16 @@
       <span>AWS</span>
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/">
-        <img src=".github/images/git.svg" width="48" height="48" alt="Git" />
+      <a href="https://fastify.dev/">
+        <img src=".github/images/fastify.svg" width="48" height="48" alt="fastify" />
       </a>
-      <span>Git</span>
+      <span>Fastify</span>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/">
-        <img src=".github/images/GitHub.svg" width="60" height="48" alt="Github" />
+      <a href="https://www.prisma.io/">
+        <img src=".github/images/prisma.svg" width="60" height="48" alt="prisma" />
       </a>
-      <span>Github</span>
+      <span>Prisma</span>
     </td>
     <td align="center" width="96">
       <a href="https://www.learn-c.org/">
