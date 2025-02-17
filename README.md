@@ -15,9 +15,9 @@
   <tr>
     <td align="center" width="96">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src=".github/images/javascript (1).svg" width="48" height="48" alt="JavaScript" />
+        <img src=".github/images/Node.js.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <span>JavaScript</span>
+      <span>Node.js</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://tailwindcss.com/">
@@ -94,12 +94,6 @@
       </a>
       <span>Prisma</span>
     </td>
-    <td align="center" width="96">
-      <a href="https://www.learn-c.org/">
-        <img src=".github/images/C.svg" width="60" height="48" alt="C" />
-      </a>
-      <span>C</span>
-    </td>
 <td align="center" width="96">
       <a href="https://isocpp.org/">
         <img src=".github/images/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
@@ -113,14 +107,14 @@
       </a>
       <span>MySQL</span>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a href="https://soliditylang.org/">
         <img src=".github/images/Solidity.svg" width="60" height="48" alt="Solidity" />
       </a>
       <span>Solidity</span>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://neovim.io/">
         <img src=".github/images/neovimio-icon.svg" width="48" height="48" alt="nvim" />
