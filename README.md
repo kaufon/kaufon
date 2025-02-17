@@ -14,18 +14,6 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src=".github/images/html5 (1).svg" width="48" height="48" alt="HTML" />
-      </a>
-      <span>HTML</span>
-    </td>
-    <td align="center" width="96">
-      <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src=".github/images/css3 (1).svg" width="48" height="48" alt="CSS" />
-      </a>
-      <span>CSS</span>
-    </td>
-    <td align="center" width="96">
       <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src=".github/images/javascript (1).svg" width="48" height="48" alt="JavaScript" />
       </a>
@@ -38,10 +26,10 @@
       <span>TailwindCSS</span>
     </td>
     <td align="center" width="96">
-      <a target="_blank" href="https://www.mysql.com/">
-        <img src=".github/images/mysql (1).png" width="48" height="48" alt="MySQL" />
+      <a href="https://nextjs.org/">
+        <img src=".github/images/nextjs.png" width="48" height="48" alt="NextJS" />
       </a>
-      <span>MySQL</span>
+      <span>NextJS</span>
     </td>
     <td align="center" width="96">
       <a target="_blank" href="https://www.python.org/">
@@ -55,20 +43,17 @@
       </a>
       <span>Flask</span>
     </td>
-    <td align="center" width="96">
-      <a target="_blank" href="https://www.docker.com/">
-        <img src=".github/images/docker (1).svg" width="48" height="48" alt="Docker" />
+<td align="center" width="96">
+      <a href="https://rubyonrails.org/">
+        <img src=".github/images/Ruby on Rails.svg" width="48" height="48" alt="Rails" />
       </a>
-      <span>Docker</span>
+      <span>Ruby on Rails</span>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <a href="https://isocpp.org/">
-        <img src=".github/images/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
+<td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src=".github/images/TypeScript.svg" width="60" height="48" alt="TScript" />
       </a>
-      <span>C++</span>
+      <span>TypeScript</span>
     </td>
     <td align="center" width="96">
       <a href="https://react.dev/">
@@ -76,11 +61,14 @@
       </a>
       <span>React</span>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
-      <a href="https://rubyonrails.org/">
-        <img src=".github/images/Ruby on Rails.svg" width="48" height="48" alt="Rails" />
+      <a target="_blank" href="https://www.docker.com/">
+        <img src=".github/images/docker (1).svg" width="48" height="48" alt="Docker" />
       </a>
-      <span>Ruby on Rails</span>
+      <span>Docker</span>
     </td>
     <td align="center" width="96">
       <a href="https://getbootstrap.com/">
@@ -112,6 +100,19 @@
       </a>
       <span>C</span>
     </td>
+<td align="center" width="96">
+      <a href="https://isocpp.org/">
+        <img src=".github/images/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
+      </a>
+      <span>C++</span>
+    </td>
+
+<td align="center" width="96">
+      <a target="_blank" href="https://www.mysql.com/">
+        <img src=".github/images/mysql (1).png" width="48" height="48" alt="MySQL" />
+      </a>
+      <span>MySQL</span>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -126,24 +127,7 @@
       </a>
       <span>NeoVim</span>
     </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src=".github/images/TypeScript.svg" width="60" height="48" alt="TScript" />
-      </a>
-      <span>TypeScript</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.figma.com/">
-        <img src=".github/images/Figma (1).svg" width="60" height="48" alt="Figma" />
-      </a>
-      <span>Figma</span>
-    </td>
-<td align="center" width="96">
-      <a href="https://nextjs.org/">
-        <img src=".github/images/nextjs.png" width="48" height="48" alt="NextJS" />
-      </a>
-      <span>NextJS</span>
-    </td>
+    
   </tr>
 </table>
 <br>
