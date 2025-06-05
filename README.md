@@ -50,10 +50,16 @@
       <span>Spring</span>
     </td>
    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src=".github/images/Node.js.svg" width="48" height="48" alt="JavaScript" />
+      <a href="https://nodejs.org/en">
+        <img src=".github/images/Node.js.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <span>Node.js</span>
+    </td>
+   <td align="center" width="96">
+      <a href="https://fastapi.tiangolo.com/">
+        <img src=".github/images/FastAPI.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <span>FastAPI</span>
     </td>
   </tr>
   <tr>
@@ -99,6 +105,12 @@
       </a>
       <span>Bootstrap</span>
     </td>
+   <td align="center" width="96">
+      <a href="https://astro.build/">
+        <img src=".github/images/Astro.svg" width="48" height="48" alt="Astro" />
+      </a>
+      <span>Astro</span>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -113,25 +125,51 @@
       </a>
       <span>Docker</span>
     </td>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com/organizations/">
-        <img src=".github/images/aws.jpg" width="48" height="48" alt="AWS" />
-      </a>
-      <span>AWS</span>
-    </td>
-    <td align="center" width="96">
+   <td align="center" width="96">
       <a href="https://isocpp.org/">
         <img src=".github/images/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
       </a>
       <span>C++</span>
     </td>
     <td align="center" width="96">
+      <a href="https://aws.amazon.com/organizations/">
+        <img src=".github/images/PostgresSQL.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <span>PostgresSQL</span>
+    </td> 
+    <td align="center" width="96">
       <a target="_blank" href="https://www.mysql.com/">
-        <img src=".github/images/mysql (1).png" width="48" height="48" alt="MySQL" />
+        <img src=".github/images/mysql (1).png" width="48" height="48" alt="PostgresSQL" />
       </a>
       <span>MySQL</span>
     </td>
+   <td align="center" width="96">
+      <a target="_blank" href="https://www.mysql.com/">
+        <img src=".github/images/MongoDB.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <span>MongoDB</span>
+    </td>
+   <td align="center" width="96">
+      <a target="_blank" href="https://www.mysql.com/">
+        <img src=".github/images/Redis.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <span>Redis</span>
+    </td>
+   <td align="center" width="96">
+      <a target="_blank" href="https://www.mysql.com/">
+        <img src=".github/images/Apache Cassandra.svg" width="48" height="48" alt="Cassadra" />
+      </a>
+      <span>Cassandra</span>
+    </td>
   </tr>
+ <tr>
+  <td align="center" width="96">
+      <a target="_blank" href="https://www.mysql.com/">
+        <img src=".github/images/Lua.svg" width="48" height="48" alt="Cassadra" />
+      </a>
+      <span>Lua</span>
+    </td>
+ </tr>
 </table>
 
 <br>
