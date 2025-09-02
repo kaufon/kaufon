@@ -1,7 +1,5 @@
 <h1 align="center"><img src=".github/images/the-blobs-live-on-waving.gif" width="30px" height="30px"> Hello! i'm Kauan Fonseca! <img src=".github/images/long-livethe-blob-sunglasses.gif" width="30px" height="30px"></h1>
 
-
-
  <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaufon&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
@@ -13,12 +11,6 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a target="_blank" href="https://www.python.org/">
-        <img src=".github/images/python (1).svg" width="48" height="48" alt="Python" />
-      </a>
-      <span>Python</span>
-    </td>
     <td align="center" width="96">
       <a target="_blank" href="https://flask.palletsprojects.com/en/3.0.x/">
         <img src=".github/images/flask.svg" width="48" height="48" alt="Flask"/>
@@ -60,6 +52,12 @@
         <img src=".github/images/FastAPI.svg" width="48" height="48" alt="FastAPI" />
       </a>
       <span>FastAPI</span>
+    </td>
+   <td align="center" width="96">
+      <a target="_blank" href="https://nestjs.com/">
+        <img src=".github/images/Nest.js.svg" width="48" height="48" alt="Flask"/>
+      </a>
+      <span>Nest.js</span>
     </td>
   </tr>
   <tr>
@@ -168,6 +166,12 @@
         <img src=".github/images/Lua.svg" width="48" height="48" alt="Cassadra" />
       </a>
       <span>Lua</span>
+    </td>
+  <td align="center" width="96">
+      <a target="_blank" href="https://www.python.org/">
+        <img src=".github/images/python (1).svg" width="48" height="48" alt="Python" />
+      </a>
+      <span>Python</span>
     </td>
  </tr>
 </table>
