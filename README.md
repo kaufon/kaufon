@@ -19,7 +19,7 @@ My area of specialty.
 My current area of focus and deep learning.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,terraform,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,terraform,linux,ansible" />
 </div>
 
 ### 🎨 Frontend & Others
