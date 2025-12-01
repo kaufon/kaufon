@@ -15,7 +15,7 @@ My area of specialty.
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,rails,spring" />
 </div>
 
-### ☁️ DevOps & Infrastructure
+### ☁️ Infrastructure
 My current area of focus and deep learning.
 
 <div align="center">
