@@ -22,7 +22,7 @@ My current area of focus and deep learning.
   <img src="https://skillicons.dev/icons?i=docker,terraform,linux,ansible" />
 </div>
 
-### 🎨 Frontend & Others
+### 🎨 Frontend 
 Technologies I am familiar with and have used in projects.
 
 <div align="center">
