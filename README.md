@@ -1,184 +1,45 @@
-<h1 align="center"><img src=".github/images/the-blobs-live-on-waving.gif" width="30px" height="30px"> Hello! i'm Kauan Fonseca! <img src=".github/images/long-livethe-blob-sunglasses.gif" width="30px" height="30px"></h1>
+<h1 align="center">
+  <img src=".github/images/the-blobs-live-on-waving.gif" width="30px" height="30px"> 
+  Hello! I'm Kauan Fonseca! 
+  <img src=".github/images/long-livethe-blob-sunglasses.gif" width="30px" height="30px">
+</h1>
 
- <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaufon&layout=compact&langs_count=7&theme=github_dark"/>
+<h4 align="center">Junior Developer & DevOps Enthusiast</h4>
+
+<br>
+
+### 🛠️ Backend 
+My area of specialty.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,rails,spring" />
 </div>
 
-<br>
+### ☁️ DevOps & Infrastructure
+My current area of focus and deep learning.
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,terraform,linux" />
+</div>
 
-## <img src=".github/images/raccoon-roll.gif" width="30px" height="30px"> Technologies that i'm familiar with:
+### 🎨 Frontend & Others
+Technologies I am familiar with and have used in projects.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a target="_blank" href="https://flask.palletsprojects.com/en/3.0.x/">
-        <img src=".github/images/flask.svg" width="48" height="48" alt="Flask"/>
-      </a>
-      <span>Flask</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://rubyonrails.org/">
-        <img src=".github/images/Ruby on Rails.svg" width="48" height="48" alt="Rails" />
-      </a>
-      <span>Ruby on Rails</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://fastify.dev/">
-        <img src=".github/images/fastify.svg" width="48" height="48" alt="Fastify" />
-      </a>
-      <span>Fastify</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.prisma.io/">
-        <img src=".github/images/prisma.svg" width="60" height="48" alt="Prisma" />
-      </a>
-      <span>Prisma</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://spring.io/">
-        <img src=".github/images/Spring.svg" width="60" height="48" alt="Spring" />
-      </a>
-      <span>Spring</span>
-    </td>
-   <td align="center" width="96">
-      <a href="https://nodejs.org/en">
-        <img src=".github/images/Node.js.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <span>Node.js</span>
-    </td>
-   <td align="center" width="96">
-      <a href="https://fastapi.tiangolo.com/">
-        <img src=".github/images/FastAPI.svg" width="48" height="48" alt="FastAPI" />
-      </a>
-      <span>FastAPI</span>
-    </td>
-   <td align="center" width="96">
-      <a target="_blank" href="https://nestjs.com/">
-        <img src=".github/images/Nest.js.svg" width="48" height="48" alt="Flask"/>
-      </a>
-      <span>Nest.js</span>
-    </td>
-  </tr>
-  <tr>
- <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src=".github/images/TypeScript.svg" width="60" height="48" alt="TScript" />
-      </a>
-      <span>TypeScript</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://react.dev/">
-        <img src=".github/images/React.svg" width="48" height="48" alt="ReactJS" />
-      </a>
-      <span>React</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://vuejs.org/">
-        <img src=".github/images/Vue.js.svg" width="60" height="48" alt="Vue.js" />
-      </a>
-      <span>Vue.js</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://vite.dev/">
-        <img src=".github/images/Vite.js.svg" width="60" height="48" alt="Vite.js" />
-      </a>
-      <span>Vite.js</span>
-    </td>
-   <td align="center" width="96">
-      <a href="https://nextjs.org/">
-        <img src=".github/images/nextjs.png" width="48" height="48" alt="NextJS" />
-      </a>
-      <span>NextJS</span>
-    </td>
-    <td align="center" width="96">
-      <a target="_blank" href="https://tailwindcss.com/">
-        <img src=".github/images/tailwindcss (1).jpg" width="48" height="48" alt="TailwindCSS" />
-      </a>
-      <span>TailwindCSS</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com/">
-        <img src=".github/images/Bootstrap (1).svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <span>Bootstrap</span>
-    </td>
-   <td align="center" width="96">
-      <a href="https://astro.build/">
-        <img src=".github/images/Astro.svg" width="48" height="48" alt="Astro" />
-      </a>
-      <span>Astro</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://dev.java/">
-        <img src=".github/images/Java.svg" width="60" height="48" alt="Java" />
-      </a>
-      <span>Java</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com/">
-        <img src=".github/images/docker (1).svg" width="48" height="48" alt="Docker" />
-      </a>
-      <span>Docker</span>
-    </td>
-   <td align="center" width="96">
-      <a href="https://isocpp.org/">
-        <img src=".github/images/C++ (CPlusPlus).svg" width="48" height="48" alt="C++" />
-      </a>
-      <span>C++</span>
-    </td>
-    <td align="center" width="96">
-      <a href="https://aws.amazon.com/organizations/">
-        <img src=".github/images/PostgresSQL.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <span>PostgresSQL</span>
-    </td> 
-    <td align="center" width="96">
-      <a target="_blank" href="https://www.mysql.com/">
-        <img src=".github/images/mysql (1).png" width="48" height="48" alt="PostgresSQL" />
-      </a>
-      <span>MySQL</span>
-    </td>
-   <td align="center" width="96">
-      <a target="_blank" href="https://www.mysql.com/">
-        <img src=".github/images/MongoDB.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <span>MongoDB</span>
-    </td>
-   <td align="center" width="96">
-      <a target="_blank" href="https://www.mysql.com/">
-        <img src=".github/images/Redis.svg" width="48" height="48" alt="Redis" />
-      </a>
-      <span>Redis</span>
-    </td>
-   <td align="center" width="96">
-      <a target="_blank" href="https://www.mysql.com/">
-        <img src=".github/images/Apache Cassandra.svg" width="48" height="48" alt="Cassadra" />
-      </a>
-      <span>Cassandra</span>
-    </td>
-  </tr>
- <tr>
-  <td align="center" width="96">
-      <a target="_blank" href="https://www.mysql.com/">
-        <img src=".github/images/Lua.svg" width="48" height="48" alt="Cassadra" />
-      </a>
-      <span>Lua</span>
-    </td>
-  <td align="center" width="96">
-      <a target="_blank" href="https://www.python.org/">
-        <img src=".github/images/python (1).svg" width="48" height="48" alt="Python" />
-      </a>
-      <span>Python</span>
-    </td>
- </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,vite,nextjs,astro" />
+</div>
 
-<br>
+<br />
 
-## ☎️ Contact Me:
- <a href="https://www.linkedin.com/in/kauan-fonseca-b62188300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaufon&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaufon&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
 
-<br>
+<br />
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/kauan-fonseca-b62188300/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</div>
