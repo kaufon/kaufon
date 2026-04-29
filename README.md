@@ -4,7 +4,7 @@
   <img src=".github/images/long-livethe-blob-sunglasses.gif" width="30px" height="30px">
 </h1>
 
-<h4 align="center">Junior Developer & DevOps Enthusiast</h4>
+<h4 align="center">Junior Developer</h4>
 
 <br>
 
