@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="150" viewBox="0 0 280 150" role="img" aria-labelledby="t d">
+  <title id="t">Gaia</title>
+  <desc id="d">Low-cost weather stations for the client Tecsus. NestJS, MQTT, Terraform.</desc>
+  <style>
+    text { font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="279" height="149" rx="14" fill="#0B1220" stroke="#1E293B"/>
+  <rect x="20" y="16" width="28" height="4" rx="2" fill="#34D399"/>
+  <text x="20" y="48" font-size="20" font-weight="700" fill="#F8FAFC">Gaia</text>
+  <text x="20" y="68" font-size="12" fill="#94A3B8">Weather stations · client: Tecsus</text>
+  <text x="20" y="96" font-size="13" fill="#CBD5E1">Sensor data via MQTT into</text>
+  <text x="20" y="114" font-size="13" fill="#CBD5E1">NestJS, with a web portal.</text>
+  <text x="20" y="136" font-size="12" fill="#34D399">NestJS · MQTT · Terraform</text>
+</svg>

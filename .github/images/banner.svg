@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210" role="img" aria-labelledby="t d">
+  <title id="t">Kauan Fonseca</title>
+  <desc id="d">Backend-leaning full-stack developer. Python, FastAPI, Docker, CI/CD, IoT and SaaS. Open to remote roles.</desc>
+  <style>
+    text { font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace; }
+  </style>
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#38BDF8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="209" rx="16" fill="#0B1220" stroke="#1E293B"/>
+  <rect x="32" y="44" width="5" height="72" rx="2.5" fill="#38BDF8"/>
+  <text x="52" y="78" font-size="40" font-weight="700" fill="#F8FAFC">Kauan Fonseca</text>
+  <text x="52" y="112" font-size="20" fill="#CBD5E1">Backend-leaning full-stack developer</text>
+  <text x="52" y="140" font-size="14" fill="#94A3B8">Python · FastAPI · Docker · CI/CD · IoT &amp; SaaS</text>
+  <rect x="52" y="156" width="204" height="28" rx="14" fill="#052E2B" stroke="#10B981" stroke-width="1"/>
+  <circle cx="70" cy="170" r="4" fill="#34D399"/>
+  <text x="82" y="170" dominant-baseline="central" font-size="13" fill="#A7F3D0">Open to remote roles</text>
+
+  <line x1="646" y1="84" x2="696" y2="84" stroke="#38BDF8" stroke-width="1.6" marker-end="url(#arr)"/>
+  <line x1="750" y1="84" x2="800" y2="84" stroke="#38BDF8" stroke-width="1.6" marker-end="url(#arr)"/>
+
+  <circle cx="620" cy="84" r="24" fill="#0F1B2D" stroke="#38BDF8" stroke-width="1.5"/>
+  <circle cx="620" cy="84" r="6" fill="none" stroke="#38BDF8" stroke-width="2"/>
+  <line x1="604" y1="84" x2="614" y2="84" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+  <line x1="626" y1="84" x2="636" y2="84" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+
+  <circle cx="724" cy="84" r="24" fill="#0F1B2D" stroke="#38BDF8" stroke-width="1.5"/>
+  <path d="M712 85L720 93L737 75" fill="none" stroke="#34D399" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="828" cy="84" r="24" fill="#0F1B2D" stroke="#38BDF8" stroke-width="1.5"/>
+  <line x1="828" y1="96" x2="828" y2="73" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M818 83L828 73L838 83" fill="none" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text class="mono" x="620" y="130" font-size="12" fill="#94A3B8" text-anchor="middle">commit</text>
+  <text class="mono" x="724" y="130" font-size="12" fill="#94A3B8" text-anchor="middle">test</text>
+  <text class="mono" x="828" y="130" font-size="12" fill="#94A3B8" text-anchor="middle">deploy</text>
+</svg>

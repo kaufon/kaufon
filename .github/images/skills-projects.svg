@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="214" viewBox="0 0 388 214" role="img" aria-labelledby="t d">
+  <title id="t">In team projects</title>
+  <desc id="d">In team projects: NestJS, Next.js, Flutter, Terraform, Pulumi, Google Cloud, MQTT, PostgreSQL.</desc>
+  <style>
+    text { font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="387" height="213" rx="16" fill="#0B1220" stroke="#1E293B"/>
+
+  <text x="24" y="32" font-size="14" font-weight="700" fill="#A78BFA">In team projects</text>
+
+  <rect x="24" y="48" width="74" height="30" rx="15" fill="#0F172A" stroke="#A78BFA"/>
+  <text x="61" y="63" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#DDD6FE">NestJS</text>
+  <rect x="106" y="48" width="82" height="30" rx="15" fill="#0F172A" stroke="#A78BFA"/>
+  <text x="147" y="63" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#DDD6FE">Next.js</text>
+  <rect x="196" y="48" width="82" height="30" rx="15" fill="#0F172A" stroke="#A78BFA"/>
+  <text x="237" y="63" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#DDD6FE">Flutter</text>
+
+  <rect x="24" y="86" width="97" height="30" rx="15" fill="#0F172A" stroke="#A78BFA"/>
+  <text x="72.5" y="101" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#DDD6FE">Terraform</text>
+  <rect x="129" y="86" width="74" height="30" rx="15" fill="#0F172A" stroke="#A78BFA"/>
+  <text x="166" y="101" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#DDD6FE">Pulumi</text>
+  <rect x="211" y="86" width="120" height="30" rx="15" fill="#0F172A" stroke="#A78BFA"/>
+  <text x="271" y="101" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#DDD6FE">Google Cloud</text>
+
+  <rect x="24" y="124" width="59" height="30" rx="15" fill="#0F172A" stroke="#A78BFA"/>
+  <text x="53.5" y="139" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#DDD6FE">MQTT</text>
+  <rect x="91" y="124" width="104" height="30" rx="15" fill="#0F172A" stroke="#A78BFA"/>
+  <text x="143" y="139" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#DDD6FE">PostgreSQL</text>
+</svg>

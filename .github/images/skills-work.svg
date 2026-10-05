@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="214" viewBox="0 0 388 214" role="img" aria-labelledby="t d">
+  <title id="t">At work</title>
+  <desc id="d">At work: Python, FastAPI, gRPC, Redis, Alembic, pytest, Docker, GitLab CI/CD, Ansible, Grafana, React Native, Oracle to PostgreSQL migrations.</desc>
+  <style>
+    text { font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="387" height="213" rx="16" fill="#0B1220" stroke="#1E293B"/>
+
+  <text x="24" y="32" font-size="14" font-weight="700" fill="#38BDF8">At work</text>
+
+  <rect x="24" y="48" width="74" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="61" y="63" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">Python</text>
+  <rect x="106" y="48" width="82" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="147" y="63" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">FastAPI</text>
+  <rect x="196" y="48" width="59" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="225.5" y="63" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">gRPC</text>
+  <rect x="263" y="48" width="66" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="296" y="63" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">Redis</text>
+
+  <rect x="24" y="86" width="82" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="65" y="101" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">Alembic</text>
+  <rect x="114" y="86" width="74" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="151" y="101" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">pytest</text>
+  <rect x="196" y="86" width="74" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="233" y="101" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">Docker</text>
+
+  <rect x="24" y="124" width="120" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="84" y="139" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">GitLab CI/CD</text>
+  <rect x="152" y="124" width="82" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="193" y="139" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">Ansible</text>
+  <rect x="242" y="124" width="82" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="283" y="139" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">Grafana</text>
+
+  <rect x="24" y="162" width="120" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="84" y="177" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">React Native</text>
+  <rect x="152" y="162" width="158" height="30" rx="15" fill="#0F172A" stroke="#38BDF8"/>
+  <text x="231" y="177" dominant-baseline="central" text-anchor="middle" font-size="13" fill="#BAE6FD">Oracle → Postgres</text>
+</svg>
